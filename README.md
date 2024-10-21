@@ -1,3 +1,3 @@
 Simple calculator on go using syntax analyzer and reverse polish notation
 
-![xd]([https://sun9-32.userapi.com/impg/qEfzi3j0c2KeR-K0AXFGMq8ufGvQOSC_-77Pvg/xGxGY3HD6zk.jpg?size=807x489&quality=95&sign=0240d0482c3d5605fb620c752711afc6&type=album](https://sun9-69.userapi.com/impg/3gqWZLGIa0qCxEO6xQwbroypn_8_TwhJhUVaLA/cSdkm7BXoZo.jpg?size=860x960&quality=96&sign=dfa9541b889c9705b739670201b5d69e&type=album))
+![xd](https://sun6-21.userapi.com/impg/zSmyjLf4dEl_DfSz1Qq_UlzNbNC1dkEdQ-BfsA/hPbfoCf2pu4.jpg?size=541x604&quality=95&sign=1c9efba9db0f8bf8ba27e8c22b8f9036&c_uniq_tag=0d7xmkZ6I3fWxeg_zvAE1V4WUM1ndZpQ_mesy7Q5D3Y&type=album)
